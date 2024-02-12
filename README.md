@@ -1,1 +1,2 @@
-# AirBnB_clone
+# Project Overview
+This project is an AirBnB clone, focusing on building a web application with functionalities similar to AirBnB. It starts with creating a command interpreter for managing application objects, laying the groundwork for future features like web templating, database integration, and API development. Key steps include establishing a BaseModel, setting up serialization/deserialization processes, developing specific classes like User and Place, creating a file storage system, and performing unit testing.
